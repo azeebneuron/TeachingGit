@@ -25,16 +25,16 @@ Follow these steps to contribute to the project:
 ### 1. **Clone the Repository**
    - Open VSCode.
    - Open the Command Palette (`Ctrl + Shift + P`) and search for **Git: Clone**.
-   - Paste the repository URL: `https://github.com/your-username/dummy-project`.
+   - Paste the repository URL: `https://github.com/azeebneuron/TeachingGit.git`.
    - Select a folder to clone the repository.
 
 ### 2. **Create a New Branch**
    - Open the terminal in VSCode (`Ctrl + ``).
    - Create and switch to a new branch:
      ```bash
-     git checkout -b your-name/feature
+     git checkout -b <branchName>
      ```
-     Example: `git checkout -b alice/add-name`.
+     Example: `git checkout -b nameADD`.
 
 ### 3. **Make Your Changes**
    - Open the `README.md` file.
@@ -50,14 +50,14 @@ Follow these steps to contribute to the project:
      ```bash
      git commit -m "Add your-name to team members"
      ```
-     Example: `git commit -m "Add Alice to team members"`.
+     Example: `git commit -m "Add Rahul to team members"`.
 
 ### 5. **Push Your Branch to GitHub**
    - Push your branch to GitHub:
      ```bash
-     git push origin your-name/feature
+     git push origin <branchName>
      ```
-     Example: `git push origin alice/add-name`.
+     Example: `git push origin nameADD`.
 
 ### 6. **Create a Pull Request (PR)**
    - Go to the repository on GitHub.
@@ -119,3 +119,12 @@ If two people edit the same file, you might encounter a merge conflict. Here’s
 You’ve successfully contributed to the project! Keep practicing and exploring Git and GitHub to become a collaboration pro. 
 
 ---
+
+## Also if this is too much to digest! Chill. Just use GitHub deskttop or VScode git extension. It will make your job 10x easier
+
+Here's the only thing you need to keep in mind <br>
+Clone → Create Branch → Make Changes → Stage → Commit → Push → Create PR → Review → Merge → Pull Main → Repeat 🚀
+
+It will take time. I understand if this seems hard but trust me work on 2-3 projects and this I completely understand that this might feel overwhelming at first, but trust me—once you work on 2-3 projects using this workflow, it’ll become second nature. You’ve got this! 💪 Keep practicing, and soon it’ll feel like a cakewalk.will be cakewalk for you
+
+
