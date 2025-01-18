@@ -10,12 +10,13 @@ Welcome to the **Dummy Project**! This repository is designed to help you learn 
 Let’s build our team! Add your name below as you join the project:
 
 - Name1
-- Name2
+- Name2 
 - Name3
 - Name4
 - Name5
 - Name6
 - Ser Donke
+Hello there
 
 ---
 
