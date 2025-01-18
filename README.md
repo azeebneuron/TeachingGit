@@ -15,6 +15,7 @@ Let’s build our team! Add your name below as you join the project:
 - Name4
 - Name5
 - Name6
+- Ser Donke
 
 ---
 
@@ -78,15 +79,15 @@ Follow these steps to contribute to the project:
 
 Here are some useful Git commands for quick reference:
 
-| Command | Description |
-| --- | --- |
-| `git clone <url>` | Clone a repository |
-| `git checkout -b <branch-name>` | Create and switch to a new branch |
-| `git add <file>` | Stage changes |
-| `git commit -m "message"` | Commit changes with a message |
-| `git push origin <branch-name>` | Push changes to GitHub |
+| Command                         | Description                         |
+| ------------------------------- | ----------------------------------- |
+| `git clone <url>`               | Clone a repository                  |
+| `git checkout -b <branch-name>` | Create and switch to a new branch   |
+| `git add <file>`                | Stage changes                       |
+| `git commit -m "message"`       | Commit changes with a message       |
+| `git push origin <branch-name>` | Push changes to GitHub              |
 | `git pull origin <branch-name>` | Pull the latest changes from GitHub |
-| `git status` | Check the status of your repository |
+| `git status`                    | Check the status of your repository |
 
 ---
 
